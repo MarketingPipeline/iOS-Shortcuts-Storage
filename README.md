@@ -34,7 +34,7 @@ Assets for iOS shortcuts will be stored here
  
 [Detect First Run](https://www.icloud.com/shortcuts/e38b4bf08edf48bd88986e08ab502ccf?fbclid=IwAR3U8hUDYPbi0mjET9DiN9Ho5D4va9L2-49AcDjbyycRIL6klNmkhL1NXBc) - detect if it's a user's first time running shortcut.
  
-[Updater](https://www.icloud.com/shortcuts/e38b4bf08edf48bd88986e08ab502ccf?fbclid=IwAR3U8hUDYPbi0mjET9DiN9Ho5D4va9L2-49AcDjbyycRIL6klNmkhL1NXBc) - a self-hosted iOS update option.
+[Updater](https://github.com/MarketingPipeline/iOS-Shortcuts-Storage/blob/main/iOS-Shortcut-Updater.md) - A self hosted alternative to using Routinehub for updating your shortcuts!
 
 [HTML Bootstrap Template](https://www.icloud.com/shortcuts/e38b4bf08edf48bd88986e08ab502ccf?fbclid=IwAR3U8hUDYPbi0mjET9DiN9Ho5D4va9L2-49AcDjbyycRIL6klNmkhL1NXBc) - a bootstrap template.
 
